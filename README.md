@@ -15,8 +15,10 @@
   - `systems @ uchicago`
   - `hpc @ argonne`
 - `building @ nori`
+
 &nbsp;
+
 
 `> elsewhere`
 
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;[`ggracelii.com`](https://ggracelii.com)&nbsp;&nbsp;·&nbsp;&nbsp;[`linkedin`](https://www.linkedin.com/in/ggracelii/)&nbsp;&nbsp;·&nbsp;&nbsp;[`email`](mailto:grace.li2@columbia.edu)</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;[`ggracelii.com`](https://ggracelii.com)&nbsp;&nbsp;·&nbsp;&nbsp;[`linkedin`](https://www.linkedin.com/in/ggracelii/)&nbsp;&nbsp;·&nbsp;&nbsp;[`email`](mailto:grace.li2@columbia.edu)
