@@ -9,13 +9,13 @@
 
 `> currently`
 
-- swe intern @ square (block)
-- research:
-  - agentic llms @ columbia
-  - systems @ uchicago
-  - hpc @ argonne
-- building @ nori
+- `swe intern @ square (block)`
+- `research:`
+  - `agentic llms @ columbia`
+  - `systems @ uchicago`
+  - `hpc @ argonne`
+- `building @ nori`
 
 `> elsewhere`
 
-[ggracelii.com](https://ggracelii.com)&nbsp;&nbsp;·&nbsp;&nbsp;[linkedin](https://www.linkedin.com/in/ggracelii/)&nbsp;&nbsp;·&nbsp;&nbsp;[email](mailto:grace.li2@columbia.edu)
+[`ggracelii.com`](https://ggracelii.com)&nbsp;&nbsp;·&nbsp;&nbsp;[`linkedin`](https://www.linkedin.com/in/ggracelii/)&nbsp;&nbsp;·&nbsp;&nbsp;[`email`](mailto:grace.li2@columbia.edu)
